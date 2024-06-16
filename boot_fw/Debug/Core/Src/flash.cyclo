@@ -1,0 +1,5 @@
+../Core/Src/flash.c:6:6:FLASH_If_Init	1
+../Core/Src/flash.c:13:10:GetPage	4
+../Core/Src/flash.c:36:10:GetBank	1
+../Core/Src/flash.c:43:10:FLASH_If_Erase	2
+../Core/Src/flash.c:73:10:FLASH_If_Write	5

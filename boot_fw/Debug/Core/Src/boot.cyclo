@@ -1,0 +1,4 @@
+../Core/Src/boot.c:93:10:CalcCRC	2
+../Core/Src/boot.c:228:26:write_cfg_to_flash	8
+../Core/Src/boot.c:303:26:write_data_to_flash_app	8
+../Core/Src/boot.c:375:6:load_new_app	11

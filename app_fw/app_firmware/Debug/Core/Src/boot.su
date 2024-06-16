@@ -1,0 +1,8 @@
+../Core/Src/boot.c:96:10:CalcCRC	32	static
+../Core/Src/boot.c:113:9:ota_download_and_flash	16	static
+../Core/Src/boot.c:174:16:ota_process_data	120	static
+../Core/Src/boot.c:374:17:ota_receive_chunk	32	static
+../Core/Src/boot.c:617:13:ota_send_resp	24	static
+../Core/Src/boot.c:642:26:write_data_to_slot	120	static
+../Core/Src/boot.c:751:16:get_available_slot_number	48	static
+../Core/Src/boot.c:976:26:write_cfg_to_flash	80	static

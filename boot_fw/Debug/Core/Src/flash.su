@@ -1,0 +1,5 @@
+../Core/Src/flash.c:6:6:FLASH_If_Init	8	static
+../Core/Src/flash.c:13:10:GetPage	24	static
+../Core/Src/flash.c:36:10:GetBank	16	static
+../Core/Src/flash.c:43:10:FLASH_If_Erase	48	static
+../Core/Src/flash.c:73:10:FLASH_If_Write	40	static
